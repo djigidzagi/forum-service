@@ -2,6 +2,8 @@ package telran.java53.accounting.dto;
 
 import java.util.Set;
 
+import org.springframework.data.annotation.Id;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
